@@ -1,0 +1,26 @@
+{
+    "name": "com.github.oparaskos.player-controller.3p",
+    "version": "0.1.0",
+    "displayName": "Third Person Player Controller",
+    "description": "Third Person Player Controller",
+    "unity": "2019.3",
+    "unityRelease": "9f1",
+    "dependencies": {
+        "com.unity.cinemachine": "2.5.0",
+        "com.unity.inputsystem": "1.0.0",
+        "com.unity.render-pipelines.high-definition": "7.3.1",
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.particlesystem": "1.0.0",
+        "com.unity.modules.physics": "1.0.0"
+    },
+    "keywords": [
+        "character",
+        "controller",
+        "player"
+    ],
+    "author": {
+        "name": "Oliver",
+        "email": "oparaskos@gmail.com"
+    }
+}
